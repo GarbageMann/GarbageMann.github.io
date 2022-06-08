@@ -1,10 +1,9 @@
 body{
-	overflow:hidden;
-	background-image: url(../img/bg1.jpg);
-	background-repeat: repeat;
-	background-position: 0 0;
-	background-attachment: fixed;
+	overflow: hidden;
+	background: url(../img/bg1.jpg);
+	background-repeat: no-repeat;
 	background-color:#fcfcfc;
+	background-size: 100vw 100vh;
 	margin:0;
 	padding:0;
 }
@@ -112,7 +111,7 @@ body{
 
 .magazine .region{
 	position:absolute;
-	overflow:hidden;
+	overflow: hidden;
 	background:#0066FF;
 	opacity:0.2;
 	-webkit-border-radius:10px;
