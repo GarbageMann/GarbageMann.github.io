@@ -85,21 +85,21 @@ body{
 	position:absolute;
 	top:50%;
 	left:50%;
-	width:998px;
-	height:650px;
+	width:2500px;
+	height:3741px;
 	margin:auto;
 }
 
 .magazine-viewport .magazine{
-	width:998px;
-	height:650px;
-	left:-499px;
-	top:-325px;
+	width:2500px;
+	height:3741px;
+	left:-1250px;
+	top:-1870.5px;
 }
 
 .magazine-viewport .page{
-	width:499px;
-	height:650px;
+	width:1250px;
+	height:1870.5px;
 	background-color:white;
 	background-repeat:no-repeat;
 	background-size:100% 100%;
